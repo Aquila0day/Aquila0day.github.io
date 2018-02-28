@@ -3,8 +3,8 @@ description: Esse Blog foi criado com o intuito de compartilhar alguns artigos e
 
 url: https://aquila0day.github.io/
 baseurl: ""
-paginate_path: "blog/page:num/"
-permalink: blog/:title/
+paginate_path: "/page:num/"
+permalink: /:year/:month/:title.html
 
 markdown: kramdown
 highlighter: rouge
