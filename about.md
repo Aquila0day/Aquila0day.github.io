@@ -1,24 +1,16 @@
 ---
 layout: default
-title: About Long Haul
+title: Aquila
 ---
 
 <div class="post">
 	<h1 class="pageTitle">About Long Haul</h1>
 	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt="">
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
-	<h2>Features</h2>
+	<p class="intro">Olá meu nome é Àquila tenho 16 anos sou entusiasta em segurança da informação e sejam bem vindos a este blog, que foi criado com o intuito de publicação de artigos em relação a InfoSec, tomei essa iniciativa para poder compartilhar algumas coisas para a comunidade de Segurança.</p>
+	<h2>O Blog Aborda algum dos assuntos abaixo.</h2>
 	<ul>
-		<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
-  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
+		<li>Artigos Científicos</li>
+  		<li>Hacking</li>
+  		<li>Segurança da Informação</li>
   	</ul>
 </div>
