@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Criando um POST"
+title: "Primeiro POST"
 date: 2018-02-28 11:57:20
 image: '/assets/img/'
 description:
