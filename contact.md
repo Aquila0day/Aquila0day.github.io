@@ -7,7 +7,7 @@ title: Contate-me
   <h1 class="pageTitle">Contato</h1>
   <div class="contactContent">
     <p class="intro">Dúvidas em artigos escritos por mim?</p>
-    <p>Prencha o formulário e mande uma mensagem para entrar em contato comigo. <a href="aquila0dayprofissional@gmail.com"> </a> </p>
+    <p>Prencha o formulário e mande uma mensagem para entrar em contato comigo. <a href="mailto:aquila0dayprofissional@gmail.com"> </a> </p>
   </div>
   <form action="http://formspree.io/your@mail.com" method="POST">
     <label for="name">Nome</label>
