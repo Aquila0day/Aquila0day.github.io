@@ -2,7 +2,7 @@
 layout: post
 title: "Hacking em Sistema Escolar do DF. Vulnerabilidade no Acadêmico Total (Corrigida)"
 date: 2018-03-09 17:10:00
-image: '/assets/img/NovasImagensDay/Title.jpg'
+image: '/assets/img/NovasImagensDay/TitleOFFSET.jpg'
 description:
 main-class:
 tags:
