@@ -8,7 +8,7 @@ main-class:
 tags:
 ---
 
-![Alt da minha Imagem](/assets/img/NovasImagensDay/TitleOFFSET.jpg "Title")
+![Alt da minha Imagem](/assets/img/NovasImagensDay/TitleOFFSET.jpg "TitleOFFSET")
 
 
 
