@@ -4,6 +4,7 @@ title: "Hacking em Sistema Escolar do DF. Vulnerabilidade no Acadêmico Total (C
 date: 2018-03-09 17:10:00
 image: '/assets/img/NovasImagensDay/TitleOFFSET.jpg'
 description:
+og: '/assets/img/NovasImagensDay/TitleOFFSET.jpg'
 main-class:
 tags:
 ---
