@@ -77,7 +77,6 @@ As falhas foram reportadas em 28/02/18 e corrigidas em 05/03/18.
 {% endhighlight %}
 
 Referências:
-
 • Jhonathan 
 
-https://lab.insightsecurity.com.br/school-hacking-vulnerabilidade-aplicativo-academico-total/
+<a href="https://lab.insightsecurity.com.br/school-hacking-vulnerabilidade-aplicativo-academico-total/" </a>
